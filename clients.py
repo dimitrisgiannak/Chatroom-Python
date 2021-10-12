@@ -1,6 +1,5 @@
 import socket
 import threading
-import pickle
 
 nickname = input("Please choose a nickname: ")
 
