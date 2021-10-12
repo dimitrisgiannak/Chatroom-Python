@@ -4,7 +4,7 @@ Simple chatroom using socket and threading build-in libraries from Python.
 
 # Features
 
-First time entering the chatroom the client send a request to join it./n
+First time entering the chatroom the client send a request to join it.  <br />
 Each time a client wants to send a message the server must give him a token to do so.
 
 # How to use
